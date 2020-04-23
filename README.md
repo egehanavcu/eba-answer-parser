@@ -1,10 +1,10 @@
-### EBA Answer Parser
-####Gerekli Modüllerin Kurulumu
+## EBA Answer Parser
+#### Gerekli Modüllerin Kurulumu
 `$ pip install Pillow`
 `$ pip install colorama`
 `$ pip install requests`
 
-####Kullanım Anlatımı
+#### Kullanım Anlatımı
 *Gerekli modülleri yüklediğinizi varsayarak anlatıyorum.*
 
 Her şeyden önce kodların bulunduğu dizinde `answers` adında bir klasör açmalısınız. Ardından çözdüğünüz test(ler)in cevaplarını indirmek için `config` dosyası üzerinde çeşitli yerleri düzenlemeniz lazım.
