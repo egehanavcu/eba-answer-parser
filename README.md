@@ -1,7 +1,9 @@
 ## EBA Answer Parser
 #### Gerekli Modüllerin Kurulumu
 `$ pip install Pillow`
+
 `$ pip install colorama`
+
 `$ pip install requests`
 
 #### Kullanım Anlatımı
