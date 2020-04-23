@@ -5,7 +5,7 @@
 	pip install requests
 
 ### Kullanım Anlatımı
-*Gerekli modülleri yüklediğinizi varsayarak anlatıyorum.*
+*Gerekli modülleri yüklediğinizi varsayıyorum.*
 
 Her şeyden önce kodların bulunduğu dizinde `answers` adında bir klasör açmalısınız. Ardından çözdüğünüz test(ler)in cevaplarını indirmek için `config` dosyası üzerinde çeşitli yerleri düzenlemeniz lazım.
 
